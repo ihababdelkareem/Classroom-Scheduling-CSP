@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.text.Font?>
+
+<GridPane alignment="center" hgap="10" prefHeight="858.0" prefWidth="2595.0" vgap="10" xmlns="http://javafx.com/javafx/8.0.121" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+   <columnConstraints>
+      <ColumnConstraints />
+   </columnConstraints>
+   <rowConstraints>
+      <RowConstraints />
+   </rowConstraints>
+   <children>
+      <Pane prefHeight="665.0" prefWidth="2595.0" GridPane.columnSpan="2147483647" GridPane.rowSpan="2147483647">
+         <children>
+            <Label layoutY="240.0" prefHeight="37.0" prefWidth="174.0" style="-fx-border-color: black;" text="Saturday">
+               <font>
+                  <Font name="Aldrich" size="30.0" />
+               </font></Label>
+            <Label layoutY="313.0" prefHeight="37.0" prefWidth="174.0" style="-fx-border-color: black;" text="Sunday">
+               <font>
+                  <Font name="Aldrich" size="30.0" />
+               </font></Label>
+            <Label layoutY="391.0" prefHeight="37.0" prefWidth="174.0" style="-fx-border-color: black;" text="Monday">
+               <font>
+                  <Font name="Aldrich" size="30.0" />
+               </font></Label>
+            <Label layoutY="464.0" prefHeight="37.0" prefWidth="174.0" style="-fx-border-color: black;" text="tuesday">
+               <font>
+                  <Font name="Aldrich" size="30.0" />
+               </font></Label>
+            <Label layoutY="535.0" style="-fx-border-color: black;" text="Wednesday">
+               <font>
+                  <Font name="Aldrich" size="30.0" />
+               </font></Label>
+            <Label layoutX="3.0" layoutY="604.0" prefHeight="37.0" prefWidth="174.0" style="-fx-border-color: black;" text="Thirsday">
+               <font>
+                  <Font name="Aldrich" size="30.0" />
+               </font></Label>
+            <Label layoutX="222.0" layoutY="140.0" style="-fx-border-color: black;" text="8:00">
+               <font>
+                  <Font name="Aldrich" size="30.0" />
+               </font></Label>
+            <Label fx:id="cs8" alignment="CENTER" contentDisplay="CENTER" layoutX="222.0" layoutY="235.0" prefHeight="45.0" prefWidth="253.0" style="-fx-background-color: green; -fx-border-color: black; -fx-border-width: 5;" text="ECS334 s11 R12" textAlignment="CENTER" textFill="WHITE">
+               <font>
+                  <Font name="Arial" size="27.0" />
+               </font>
+               <opaqueInsets>
+                  <Insets />
+               </opaqueInsets></Label>
+            <Label fx:id="cs9" alignment="CENTER" contentDisplay="CENTER" layoutX="475.0" layoutY="235.0" prefHeight="45.0" prefWidth="253.0" style="-fx-background-color: green; -fx-border-color: black; -fx-border-width: 5;" text="ECS334 s11 R12" textAlignment="CENTER" textFill="WHITE">
+               <font>
+                  <Font name="Arial" size="27.0" />
+               </font>
+               <opaqueInsets>
+                  <Insets />
+               </opaqueInsets></Label>
+            <Label fx:id="cs10" alignment="CENTER" contentDisplay="CENTER" layoutX="728.0" layoutY="235.0" prefHeight="45.0" prefWidth="253.0" style="-fx-background-color: green; -fx-border-color: black; -fx-border-width: 5;" text="ECS334 s11 R12" textAlignment="CENTER" textFill="WHITE">
+               <font>
+                  <Font name="Arial" size="27.0" />
+               </font>
+               <opaqueInsets>
+                  <Insets />
+               </opaqueInsets></Label>
+            <Label fx:id="cs11" alignment="CENTER" contentDisplay="CENTER" layoutX="981.0" layoutY="235.0" prefHeight="45.0" prefWidth="253.0" style="-fx-background-color: green; -fx-border-color: black; -fx-border-width: 5;" text="ECS334 s11 R12" textAlignment="CENTER" textFill="WHITE">
+               <font>
+                  <Font name="Arial" size="27.0" />
+               </font>
+               <opaqueInsets>
+                  <Insets />
+               </opaqueInsets></Label>
+            <Label fx:id="cs12" alignment="CENTER" contentDisplay="CENTER" layoutX="1234.0" layoutY="235.0" prefHeight="45.0" prefWidth="253.0" style="-fx-background-color: green; -fx-border-color: black; -fx-border-width: 5;" text="ECS334 s11 R12" textAlignment="CENTER" textFill="WHITE">
+               <font>
+                  <Font name="Arial" size="27.0" />
+               </font>
+               <opaqueInsets>
+                  <Insets />
+               </opaqueInsets></Label>
+            <Label fx:id="cs1" alignment="CENTER" contentDisplay="CENTER" layoutX="1487.0" layoutY="235.0" prefHeight="45.0" prefWidth="253.0" style="-fx-background-color: green; -fx-border-color: black; -fx-border-width: 5;" text="ECS334 s11 R12" textAlignment="CENTER" textFill="WHITE">
+               <font>
+                  <Font name="Arial" size="27.0" />
+               </font>
+               <opaqueInsets>
+                  <Insets />
+               </opaqueInsets></Label>
+            <Label fx:id="cs2" alignment="CENTER" contentDisplay="CENTER" layoutX="1740.0" layoutY="235.0" prefHeight="45.0" prefWidth="253.0" style="-fx-background-color: green; -fx-border-color: black; -fx-border-width: 5;" text="ECS334 s11 R12" textAlignment="CENTER" textFill="WHITE">
+               <font>
+                  <Font name="Arial" size="27.0" />
+               </font>
+               <opaqueInsets>
+                  <Insets />
+               </opaqueInsets></Label>
+            <Label fx:id="cs3" alignment="CENTER" contentDisplay="CENTER" layoutX="1993.0" layoutY="235.0" prefHeight="45.0" prefWidth="253.0" style="-fx-background-color: green; -fx-border-color: black; -fx-border-width: 5;" text="ECS334 s11 R12" textAlignment="CENTER" textFill="WHITE">
+               <font>
+                  <Font name="Arial" size="27.0" />
+               </font>
+               <opaqueInsets>
+                  <Insets />
+               </opaqueInsets></Label>
+            <Label fx:id="cs4" alignment="CENTER" contentDisplay="CENTER" layoutX="2246.0" layoutY="235.0" prefHeight="45.0" prefWidth="253.0" style="-fx-background-color: green; -fx-border-color: black; -fx-border-width: 5;" text="ECS334 s11 R12" textAlignment="CENTER" textFill="WHITE">
+               <font>
+                  <Font name="Arial" size="27.0" />
+               </font>
+               <opaqueInsets>
+                  <Insets />
+               </opaqueInsets></Label>
+            <Label fx:id="cm8" alignment="CENTER" contentDisplay="CENTER" layoutX="222.0" layoutY="388.0" prefHeight="45.0" prefWidth="253.0" style="-fx-background-color: green; -fx-border-color: black; -fx-border-width: 5;" text="ECS334 s11 R12" textAlignment="CENTER" textFill="WHITE">
+               <font>
+                  <Font name="Arial" size="27.0" />
+               </font>
+               <opaqueInsets>
+                  <Insets />
+               </opaqueInsets></Label>
+            <Label fx:id="cm9" alignment="CENTER" contentDisplay="CENTER" layoutX="475.0" layoutY="388.0" prefHeight="45.0" prefWidth="253.0" style="-fx-background-color: green; -fx-border-color: black; -fx-border-width: 5;" text="ECS334 s11 R12" textAlignment="CENTER" textFill="WHITE">
+               <font>
+                  <Font name="Arial" size="27.0" />
+               </font>
+               <opaqueInsets>
+                  <Insets />
+               </opaqueInsets></Label>
+            <Label fx:id="cm10" alignment="CENTER" contentDisplay="CENTER" layoutX="728.0" layoutY="388.0" prefHeight="45.0" prefWidth="253.0" style="-fx-background-color: green; -fx-border-color: black; -fx-border-width: 5;" text="ECS334 s11 R12" textAlignment="CENTER" textFill="WHITE">
+               <font>
+                  <Font name="Arial" size="27.0" />
+               </font>
+               <opaqueInsets>
+                  <Insets />
+               </opaqueInsets></Label>
+            <Label fx:id="cm11" alignment="CENTER" contentDisplay="CENTER" layoutX="981.0" layoutY="388.0" prefHeight="45.0" prefWidth="253.0" style="-fx-background-color: green; -fx-border-color: black; -fx-border-width: 5;" text="ECS334 s11 R12" textAlignment="CENTER" textFill="WHITE">
+               <font>
+                  <Font name="Arial" size="27.0" />
+               </font>
+               <opaqueInsets>
+                  <Insets />
+               </opaqueInsets></Label>
+            <Label fx:id="cm12" alignment="CENTER" contentDisplay="CENTER" layoutX="1234.0" layoutY="388.0" prefHeight="45.0" prefWidth="253.0" style="-fx-background-color: green; -fx-border-color: black; -fx-border-width: 5;" text="ECS334 s11 R12" textAlignment="CENTER" textFill="WHITE">
+               <font>
+                  <Font name="Arial" size="27.0" />
+               </font>
+               <opaqueInsets>
+                  <Insets />
+               </opaqueInsets></Label>
+            <Label fx:id="cm1" alignment="CENTER" contentDisplay="CENTER" layoutX="1487.0" layoutY="388.0" prefHeight="45.0" prefWidth="253.0" style="-fx-background-color: green; -fx-border-color: black; -fx-border-width: 5;" text="ECS334 s11 R12" textAlignment="CENTER" textFill="WHITE">
+               <font>
+                  <Font name="Arial" size="27.0" />
+               </font>
+               <opaqueInsets>
+                  <Insets />
+               </opaqueInsets></Label>
+            <Label fx:id="cm2" alignment="CENTER" contentDisplay="CENTER" layoutX="1740.0" layoutY="388.0" prefHeight="45.0" prefWidth="253.0" style="-fx-background-color: green; -fx-border-color: black; -fx-border-width: 5;" text="ECS334 s11 R12" textAlignment="CENTER" textFill="WHITE">
+               <font>
+                  <Font name="Arial" size="27.0" />
+               </font>
+               <opaqueInsets>
+                  <Insets />
+               </opaqueInsets></Label>
+            <Label fx:id="cm3" alignment="CENTER" contentDisplay="CENTER" layoutX="1993.0" layoutY="388.0" prefHeight="45.0" prefWidth="253.0" style="-fx-background-color: green; -fx-border-color: black; -fx-border-width: 5;" text="ECS334 s11 R12" textAlignment="CENTER" textFill="WHITE">
+               <font>
+                  <Font name="Arial" size="27.0" />
+               </font>
+               <opaqueInsets>
+                  <Insets />
+               </opaqueInsets></Label>
+            <Label fx:id="cm4" alignment="CENTER" contentDisplay="CENTER" layoutX="2246.0" layoutY="388.0" prefHeight="45.0" prefWidth="253.0" style="-fx-background-color: green; -fx-border-color: black; -fx-border-width: 5;" text="ECS334 s11 R12" textAlignment="CENTER" textFill="WHITE">
+               <font>
+                  <Font name="Arial" size="27.0" />
+               </font>
+               <opaqueInsets>
+                  <Insets />
+               </opaqueInsets></Label>
+            <Label fx:id="cw8" alignment="CENTER" contentDisplay="CENTER" layoutX="222.0" layoutY="530.0" prefHeight="45.0" prefWidth="253.0" style="-fx-background-color: green; -fx-border-color: black; -fx-border-width: 5;" text="ECS334 s11 R12" textAlignment="CENTER" textFill="WHITE">
+               <font>
+                  <Font name="Arial" size="27.0" />
+               </font>
+               <opaqueInsets>
+                  <Insets />
+               </opaqueInsets></Label>
+            <Label fx:id="cw9" alignment="CENTER" contentDisplay="CENTER" layoutX="475.0" layoutY="530.0" prefHeight="45.0" prefWidth="253.0" style="-fx-background-color: green; -fx-border-color: black; -fx-border-width: 5;" text="ECS334 s11 R12" textAlignment="CENTER" textFill="WHITE">
+               <font>
+                  <Font name="Arial" size="27.0" />
+               </font>
+               <opaqueInsets>
+                  <Insets />
+               </opaqueInsets></Label>
+            <Label fx:id="cw10" alignment="CENTER" contentDisplay="CENTER" layoutX="728.0" layoutY="530.0" prefHeight="45.0" prefWidth="253.0" style="-fx-background-color: green; -fx-border-color: black; -fx-border-width: 5;" text="ECS334 s11 R12" textAlignment="CENTER" textFill="WHITE">
+               <font>
+                  <Font name="Arial" size="27.0" />
+               </font>
+               <opaqueInsets>
+                  <Insets />
+               </opaqueInsets></Label>
+            <Label fx:id="cw11" alignment="CENTER" contentDisplay="CENTER" layoutX="981.0" layoutY="530.0" prefHeight="45.0" prefWidth="253.0" style="-fx-background-color: green; -fx-border-color: black; -fx-border-width: 5;" text="ECS334 s11 R12" textAlignment="CENTER" textFill="WHITE">
+               <font>
+                  <Font name="Arial" size="27.0" />
+               </font>
+               <opaqueInsets>
+                  <Insets />
+               </opaqueInsets></Label>
+            <Label fx:id="cw12" alignment="CENTER" contentDisplay="CENTER" layoutX="1234.0" layoutY="530.0" prefHeight="45.0" prefWidth="253.0" style="-fx-background-color: green; -fx-border-color: black; -fx-border-width: 5;" text="ECS334 s11 R12" textAlignment="CENTER" textFill="WHITE">
+               <font>
+                  <Font name="Arial" size="27.0" />
+               </font>
+               <opaqueInsets>
+                  <Insets />
+               </opaqueInsets></Label>
+            <Label fx:id="cw1" alignment="CENTER" contentDisplay="CENTER" layoutX="1487.0" layoutY="530.0" prefHeight="45.0" prefWidth="253.0" style="-fx-background-color: green; -fx-border-color: black; -fx-border-width: 5;" text="ECS334 s11 R12" textAlignment="CENTER" textFill="WHITE">
+               <font>
+                  <Font name="Arial" size="27.0" />
+               </font>
+               <opaqueInsets>
+                  <Insets />
+               </opaqueInsets></Label>
+            <Label fx:id="cw2" alignment="CENTER" contentDisplay="CENTER" layoutX="1740.0" layoutY="530.0" prefHeight="45.0" prefWidth="253.0" style="-fx-background-color: green; -fx-border-color: black; -fx-border-width: 5;" text="ECS334 s11 R12" textAlignment="CENTER" textFill="WHITE">
+               <font>
+                  <Font name="Arial" size="27.0" />
+               </font>
+               <opaqueInsets>
+                  <Insets />
+               </opaqueInsets></Label>
+            <Label fx:id="cw3" alignment="CENTER" contentDisplay="CENTER" layoutX="1993.0" layoutY="530.0" prefHeight="45.0" prefWidth="253.0" style="-fx-background-color: green; -fx-border-color: black; -fx-border-width: 5;" text="ECS334 s11 R12" textAlignment="CENTER" textFill="WHITE">
+               <font>
+                  <Font name="Arial" size="27.0" />
+               </font>
+               <opaqueInsets>
+                  <Insets />
+               </opaqueInsets></Label>
+            <Label fx:id="cw4" alignment="CENTER" contentDisplay="CENTER" layoutX="2246.0" layoutY="530.0" prefHeight="45.0" prefWidth="253.0" style="-fx-background-color: green; -fx-border-color: black; -fx-border-width: 5;" text="ECS334 s11 R12" textAlignment="CENTER" textFill="WHITE">
+               <font>
+                  <Font name="Arial" size="27.0" />
+               </font>
+               <opaqueInsets>
+                  <Insets />
+               </opaqueInsets></Label>
+            <Label fx:id="ct8" alignment="CENTER" contentDisplay="CENTER" layoutX="220.0" layoutY="459.0" prefHeight="45.0" prefWidth="384.0" style="-fx-background-color: green; -fx-border-color: black; -fx-border-width: 5;" text="ECS334 s11 R12" textAlignment="CENTER" textFill="WHITE">
+               <font>
+                  <Font name="Arial" size="27.0" />
+               </font>
+               <opaqueInsets>
+                  <Insets />
+               </opaqueInsets></Label>
+            <Label fx:id="ct9a5" alignment="CENTER" contentDisplay="CENTER" layoutX="600.0" layoutY="459.0" prefHeight="45.0" prefWidth="384.0" style="-fx-background-color: green; -fx-border-color: black; -fx-border-width: 5;" text="ECS334 s11 R12" textAlignment="CENTER" textFill="WHITE">
+               <font>
+                  <Font name="Arial" size="27.0" />
+               </font>
+               <opaqueInsets>
+                  <Insets />
+               </opaqueInsets></Label>
+            <Label fx:id="ct11" alignment="CENTER" contentDisplay="CENTER" layoutX="978.0" layoutY="459.0" prefHeight="45.0" prefWidth="384.0" style="-fx-background-color: green; -fx-border-color: black; -fx-border-width: 5;" text="ECS334 s11 R12" textAlignment="CENTER" textFill="WHITE">
+               <font>
+                  <Font name="Arial" size="27.0" />
+               </font>
+               <opaqueInsets>
+                  <Insets />
+               </opaqueInsets></Label>
+            <Label fx:id="ct12a5" alignment="CENTER" contentDisplay="CENTER" layoutX="1357.0" layoutY="459.0" prefHeight="45.0" prefWidth="384.0" style="-fx-background-color: green; -fx-border-color: black; -fx-border-width: 5;" text="ECS334 s11 R12" textAlignment="CENTER" textFill="WHITE">
+               <font>
+                  <Font name="Arial" size="27.0" />
+               </font>
+               <opaqueInsets>
+                  <Insets />
+               </opaqueInsets></Label>
+            <Label fx:id="ct2" alignment="CENTER" contentDisplay="CENTER" layoutX="1736.0" layoutY="459.0" prefHeight="45.0" prefWidth="384.0" style="-fx-background-color: green; -fx-border-color: black; -fx-border-width: 5;" text="ECS334 s11 R12" textAlignment="CENTER" textFill="WHITE">
+               <font>
+                  <Font name="Arial" size="27.0" />
+               </font>
+               <opaqueInsets>
+                  <Insets />
+               </opaqueInsets></Label>
+            <Label fx:id="ct3a5" alignment="CENTER" contentDisplay="CENTER" layoutX="2116.0" layoutY="459.0" prefHeight="45.0" prefWidth="384.0" style="-fx-background-color: green; -fx-border-color: black; -fx-border-width: 5;" text="ECS334 s11 R12" textAlignment="CENTER" textFill="WHITE">
+               <font>
+                  <Font name="Arial" size="27.0" />
+               </font>
+               <opaqueInsets>
+                  <Insets />
+               </opaqueInsets></Label>
+            <Label fx:id="cr8" alignment="CENTER" contentDisplay="CENTER" layoutX="220.0" layoutY="600.0" prefHeight="45.0" prefWidth="384.0" style="-fx-background-color: green; -fx-border-color: black; -fx-border-width: 5;" text="ECS334 s11 R12" textAlignment="CENTER" textFill="WHITE">
+               <font>
+                  <Font name="Arial" size="27.0" />
+               </font>
+               <opaqueInsets>
+                  <Insets />
+               </opaqueInsets></Label>
+            <Label fx:id="cr9a5" alignment="CENTER" contentDisplay="CENTER" layoutX="600.0" layoutY="600.0" prefHeight="45.0" prefWidth="384.0" style="-fx-background-color: green; -fx-border-color: black; -fx-border-width: 5;" text="ECS334 s11 R12" textAlignment="CENTER" textFill="WHITE">
+               <font>
+                  <Font name="Arial" size="27.0" />
+               </font>
+               <opaqueInsets>
+                  <Insets />
+               </opaqueInsets></Label>
+            <Label fx:id="cr11" alignment="CENTER" contentDisplay="CENTER" layoutX="979.0" layoutY="600.0" prefHeight="45.0" prefWidth="384.0" style="-fx-background-color: green; -fx-border-color: black; -fx-border-width: 5;" text="ECS334 s11 R12" textAlignment="CENTER" textFill="WHITE">
+               <font>
+                  <Font name="Arial" size="27.0" />
+               </font>
+               <opaqueInsets>
+                  <Insets />
+               </opaqueInsets></Label>
+            <Label fx:id="cr12a5" alignment="CENTER" contentDisplay="CENTER" layoutX="1359.0" layoutY="600.0" prefHeight="45.0" prefWidth="384.0" style="-fx-background-color: green; -fx-border-color: black; -fx-border-width: 5;" text="ECS334 s11 R12" textAlignment="CENTER" textFill="WHITE">
+               <font>
+                  <Font name="Arial" size="27.0" />
+               </font>
+               <opaqueInsets>
+                  <Insets />
+               </opaqueInsets></Label>
+            <Label fx:id="cr2" alignment="CENTER" contentDisplay="CENTER" layoutX="1738.0" layoutY="600.0" prefHeight="45.0" prefWidth="384.0" style="-fx-background-color: green; -fx-border-color: black; -fx-border-width: 5;" text="ECS334 s11 R12" textAlignment="CENTER" textFill="WHITE">
+               <font>
+                  <Font name="Arial" size="27.0" />
+               </font>
+               <opaqueInsets>
+                  <Insets />
+               </opaqueInsets></Label>
+            <Label fx:id="cr3a5" alignment="CENTER" contentDisplay="CENTER" layoutX="2118.0" layoutY="600.0" prefHeight="45.0" prefWidth="384.0" style="-fx-background-color: green; -fx-border-color: black; -fx-border-width: 5;" text="ECS334 s11 R12" textAlignment="CENTER" textFill="WHITE">
+               <font>
+                  <Font name="Arial" size="27.0" />
+               </font>
+               <opaqueInsets>
+                  <Insets />
+               </opaqueInsets></Label>
+            <Label layoutX="475.0" layoutY="140.0" style="-fx-border-color: black;" text="9:00">
+               <font>
+                  <Font name="Aldrich" size="30.0" />
+               </font>
+            </Label>
+            <Label layoutX="728.0" layoutY="140.0" style="-fx-border-color: black;" text="10:00">
+               <font>
+                  <Font name="Aldrich" size="30.0" />
+               </font>
+            </Label>
+            <Label layoutX="973.0" layoutY="140.0" style="-fx-border-color: black;" text="11:00">
+               <font>
+                  <Font name="Aldrich" size="30.0" />
+               </font>
+            </Label>
+            <Label layoutX="1234.0" layoutY="140.0" style="-fx-border-color: black;" text="12:00">
+               <font>
+                  <Font name="Aldrich" size="30.0" />
+               </font>
+            </Label>
+            <Label layoutX="1487.0" layoutY="140.0" style="-fx-border-color: black;" text="1:00">
+               <font>
+                  <Font name="Aldrich" size="30.0" />
+               </font>
+            </Label>
+            <Label layoutX="1743.0" layoutY="140.0" style="-fx-border-color: black;" text="2:00">
+               <font>
+                  <Font name="Aldrich" size="30.0" />
+               </font>
+            </Label>
+            <Label layoutX="1993.0" layoutY="140.0" style="-fx-border-color: black;" text="3:00">
+               <font>
+                  <Font name="Aldrich" size="30.0" />
+               </font>
+            </Label>
+            <Label layoutX="2246.0" layoutY="140.0" style="-fx-border-color: black;" text="4:00">
+               <font>
+                  <Font name="Aldrich" size="30.0" />
+               </font>
+            </Label>
+            <Label layoutX="2499.0" layoutY="140.0" style="-fx-border-color: black;" text="5:00">
+               <font>
+                  <Font name="Aldrich" size="30.0" />
+               </font>
+            </Label>
+            <Label fx:id="ls2" alignment="CENTER" contentDisplay="CENTER" layoutX="1741.0" layoutY="235.0" prefHeight="45.0" prefWidth="758.0" style="-fx-background-color: green; -fx-border-color: black; -fx-border-width: 5;" text="ECS334 s11 R12" textAlignment="CENTER" textFill="WHITE">
+               <font>
+                  <Font name="Arial" size="27.0" />
+               </font>
+               <opaqueInsets>
+                  <Insets />
+               </opaqueInsets>
+            </Label>
+            <Label fx:id="lm2" alignment="CENTER" contentDisplay="CENTER" layoutX="1738.0" layoutY="-250.0" prefHeight="45.0" prefWidth="523.0" style="-fx-background-color: green; -fx-border-color: black; -fx-border-width: 5;" text="ECS334 s11 R12" textAlignment="CENTER" textFill="WHITE">
+               <font>
+                  <Font name="Arial" size="27.0" />
+               </font>
+               <opaqueInsets>
+                  <Insets />
+               </opaqueInsets>
+            </Label>
+            <Label fx:id="lw2" alignment="CENTER" contentDisplay="CENTER" layoutX="1744.0" layoutY="530.0" prefHeight="45.0" prefWidth="758.0" style="-fx-background-color: green; -fx-border-color: black; -fx-border-width: 5;" text="ECS334 s11 R12" textAlignment="CENTER" textFill="WHITE">
+               <font>
+                  <Font name="Arial" size="27.0" />
+               </font>
+               <opaqueInsets>
+                  <Insets />
+               </opaqueInsets>
+            </Label>
+            <Label fx:id="lt8" alignment="CENTER" contentDisplay="CENTER" layoutX="222.0" layoutY="459.0" prefHeight="45.0" prefWidth="758.0" style="-fx-background-color: green; -fx-border-color: black; -fx-border-width: 5;" text="ECS334 s11 R12" textAlignment="CENTER" textFill="WHITE">
+               <font>
+                  <Font name="Arial" size="27.0" />
+               </font>
+               <opaqueInsets>
+                  <Insets />
+               </opaqueInsets>
+            </Label>
+            <Label fx:id="lt11" alignment="CENTER" contentDisplay="CENTER" layoutX="979.0" layoutY="460.0" prefHeight="45.0" prefWidth="758.0" style="-fx-background-color: green; -fx-border-color: black; -fx-border-width: 5;" text="ECS334 s11 R12" textAlignment="CENTER" textFill="WHITE">
+               <font>
+                  <Font name="Arial" size="27.0" />
+               </font>
+               <opaqueInsets>
+                  <Insets />
+               </opaqueInsets>
+            </Label>
+            <Label fx:id="lt2" alignment="CENTER" contentDisplay="CENTER" layoutX="1740.0" layoutY="459.0" prefHeight="45.0" prefWidth="758.0" style="-fx-background-color: green; -fx-border-color: black; -fx-border-width: 5;" text="ECS334 s11 R12" textAlignment="CENTER" textFill="WHITE">
+               <font>
+                  <Font name="Arial" size="27.0" />
+               </font>
+               <opaqueInsets>
+                  <Insets />
+               </opaqueInsets>
+            </Label>
+            <Label fx:id="lr8" alignment="CENTER" contentDisplay="CENTER" layoutX="223.0" layoutY="600.0" prefHeight="45.0" prefWidth="758.0" style="-fx-background-color: green; -fx-border-color: black; -fx-border-width: 5;" text="ECS334 s11 R12" textAlignment="CENTER" textFill="WHITE">
+               <font>
+                  <Font name="Arial" size="27.0" />
+               </font>
+               <opaqueInsets>
+                  <Insets />
+               </opaqueInsets>
+            </Label>
+            <Label fx:id="lr11" alignment="CENTER" contentDisplay="CENTER" layoutX="981.0" layoutY="600.0" prefHeight="45.0" prefWidth="758.0" style="-fx-background-color: green; -fx-border-color: black; -fx-border-width: 5;" text="ECS334 s11 R12" textAlignment="CENTER" textFill="WHITE">
+               <font>
+                  <Font name="Arial" size="27.0" />
+               </font>
+               <opaqueInsets>
+                  <Insets />
+               </opaqueInsets>
+            </Label>
+            <Label fx:id="lr2" alignment="CENTER" contentDisplay="CENTER" layoutX="1742.0" layoutY="600.0" prefHeight="45.0" prefWidth="758.0" style="-fx-background-color: green; -fx-border-color: black; -fx-border-width: 5;" text="ECS334 s11 R12" textAlignment="CENTER" textFill="WHITE">
+               <font>
+                  <Font name="Arial" size="27.0" />
+               </font>
+               <opaqueInsets>
+                  <Insets />
+               </opaqueInsets>
+            </Label>
+         </children>
+      </Pane>
+   </children>
+</GridPane>

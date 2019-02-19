@@ -1,0 +1,46 @@
+19 10
+COURSE1 3
+COURSE2 2
+COURSE3 1
+AI 3
+OS 3
+Ethics 2
+RealTime 3
+Robotics 1
+Security 2
+Architecture 2
+Micro 3
+Interfacing 2
+AdvDigital 3
+IC 2
+Organization 2
+DSP 2
+Digital 5
+Networks 3
+Vision 2
+LinuxLab 2
+NetworksLab 3
+MicroLab 4
+DigitalLab 5
+AssemblyLab 4
+InterfacingLab 2
+RealTimeLab 4
+AdvancedLab 2
+LABB1 3
+LABB2 2
+13
+Sadeh Digital Security Ethics COURSE3 AdvDigital DigitalLab LABB2 AssemblyLab LinuxLab AdvancedLab
+Abuissa Digital AdvDigital Organization Micro Architecture DigitalLab MicroLab AssemblyLab AdvancedLab InterfacingLab
+Qaroush AI OS Vision Architecture COURSE1 LinuxLab AdvancedLab NetworksLab MicroLab AssemblyLab
+Tumar Networks Ethics COURSE1 Digital Interfacing NetworksLab RealTimeLab AdvancedLab LABB2 MicroLab
+Yahya AI OS Ethics Organization COURSE1 DigitalLab LABB1 AssemblyLab AdvancedLab RealTimeLab
+Afaneh Micro Architecture RealTime OS COURSE3 InterfacingLab RealTimeLab AssemblyLab DigitalLab MicroLab
+Hanani DSP COURSE1 Digital Interfacing Micro AssemblyLab DigitalLab MicroLab AdvancedLab InterfacingLab
+K.Mohammad IC AdvDigital Digital Ethics Architecture AssemblyLab LABB1 NetworksLab LinuxLab LABB1
+Awwad Interfacing Micro AI COURSE1 Networks NetworksLab AssemblyLab DigitalLab LinuxLab AdvancedLab
+Bullata RealTime Vision Robotics Micro Ethics NetworksLab AssemblyLab DigitalLab RealTimeLab InterfacingLab
+Hussein COURSE3 Networks Digital Micro COURSE2 LABB2 AssemblyLab DigitalLab RealTimeLab AdvancedLab
+Doc_x Interfacing COURSE3 Ethics Security Networks NetworksLab AssemblyLab DigitalLab LinuxLab AdvancedLab
+Doc_y AI OS Robotics COURSE1 Digital LABB2 AdvancedLab NetworksLab MicroLab AssemblyLab
+40 40
+5 3
