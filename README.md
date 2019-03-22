@@ -14,6 +14,6 @@ The User gets to pick the soft constraint to fulfil from the following options:
 - Minimize the number of lectures outside the IT Building
 
 ![Alt text](https://github.com/ihababdelkareem/CSP-Scheduling/blob/master/output-sample.png)
-#Authors
+# Authors
 Ihab Abdelkareem
 Bader Anini (@baderanini)
